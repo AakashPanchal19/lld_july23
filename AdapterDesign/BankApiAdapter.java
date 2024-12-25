@@ -1,4 +1,5 @@
 package AdapterDesign;
+hello
 
 public interface BankApiAdapter {
     double getBalance(String accNumber);
